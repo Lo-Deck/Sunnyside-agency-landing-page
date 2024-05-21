@@ -488,6 +488,7 @@ img{
         grid-template-rows: repeat(2, min-content);
         width: 69.375rem;
         margin: 0 auto;
+        padding: 9.875rem 0 5.625rem;
     }
 
     .notification-title{
